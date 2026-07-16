@@ -1,10 +1,10 @@
-# aLGN
+# aLGN™
 
 ## AI-Assisted Opportunity Evaluation and Decision Workflow
 
-aLGN is a product I designed and built to reduce the repetitive work involved in evaluating job opportunities while improving consistency, transparency, and decision quality.
+aLGN™ is a product I designed and built to reduce the repetitive work involved in evaluating job opportunities while improving consistency, transparency, and decision quality.
 
-Rather than relying on a language model to make unrestricted decisions, aLGN combines structured criteria, deterministic rules, AI-assisted analysis, browser automation, and human review.
+Rather than relying on a language model to make unrestricted decisions, aLGN™ combines structured criteria, deterministic rules, AI-assisted analysis, browser automation, and human review.
 
 ---
 
@@ -27,7 +27,7 @@ This process can be time-consuming and inconsistent, especially when information
 
 ## Product Objective
 
-aLGN was designed to answer:
+aLGN™ was designed to answer:
 
 > Which opportunities deserve attention, and why?
 
@@ -55,7 +55,7 @@ AI is most useful when operating within a clearly defined workflow, not when ask
 
 ### Human Judgment Remains Central
 
-aLGN supports decision-making. It does not replace final human judgment.
+aLGN™ supports decision-making. It does not replace final human judgment.
 
 ### Explainability Matters
 
@@ -98,7 +98,7 @@ The work required:
 
 ## Impact
 
-aLGN has helped:
+aLGN™ has helped:
 
 - reduce repetitive opportunity review
 - improve consistency across evaluations
@@ -111,7 +111,7 @@ aLGN has helped:
 
 ## Current Status
 
-aLGN is an actively evolving personal product. A privacy-safe public demonstration and expanded case study are currently in development.
+aLGN™ is an actively evolving personal product. A privacy-safe public demonstration and expanded case study are currently in development.
 
 No personal application data, credentials, proprietary information, or API keys are included in this repository.
 
