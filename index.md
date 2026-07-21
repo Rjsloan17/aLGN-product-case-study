@@ -1,10 +1,10 @@
-# ALGN™ — AI career decision intelligence by Pluralign
+# aLGN™ — AI career decision intelligence by Pluralign
 
 ## AI-Assisted Opportunity Evaluation and Decision Workflow
 
-ALGN™ is a product I designed and built to reduce the repetitive work involved in evaluating job opportunities while improving consistency, transparency, and decision quality.
+aLGN™ is a product I designed and built to reduce the repetitive work involved in evaluating job opportunities while improving consistency, transparency, and decision quality.
 
-Rather than relying on a language model to make unrestricted decisions, ALGN™ combines structured criteria, deterministic rules, AI-assisted analysis, browser automation, and human review.
+Rather than relying on a language model to make unrestricted decisions, aLGN™ combines structured criteria, deterministic rules, AI-assisted analysis, browser automation, and human review.
 
 ---
 
@@ -27,7 +27,7 @@ This process can be time-consuming and inconsistent, especially when information
 
 ## Product Objective
 
-ALGN™ was designed to answer:
+aLGN™ was designed to answer:
 
 > **Which opportunities deserve attention, why do they deserve it, and how should the candidate’s verified evidence be represented for the opportunity?**
 
@@ -55,7 +55,7 @@ AI is most useful when operating within a clearly defined workflow, not when ask
 
 ### Human Judgment Remains Central
 
-ALGN™ supports decision-making. It does not replace final human judgment.
+aLGN™ supports decision-making. It does not replace final human judgment.
 
 ### Explainability Matters
 
@@ -69,7 +69,7 @@ The workflow separates ingestion, evaluation, decision logic, and output generat
 
 ## Evidence-Preserving Tailoring
 
-ALGN™ does not create a different professional identity for every opportunity. It begins with a verified body of experience and generates role-specific views by changing the weighting, ordering, and level of abstraction applied to that evidence.
+aLGN™ does not create a different professional identity for every opportunity. It begins with a verified body of experience and generates role-specific views by changing the weighting, ordering, and level of abstraction applied to that evidence.
 
 > **The evidence stays fixed. The proportions change.**
 
@@ -79,11 +79,11 @@ Employment history, accomplishments, outcomes, skills, constraints, and supporti
 
 ### Proportional Emphasis
 
-The same experience may contain evidence of product ownership, product management, product operations, technical delivery, or AI enablement. ALGN™ adjusts which dimensions lead and which remain supporting evidence based on the opportunity.
+The same experience may contain evidence of product ownership, product management, product operations, technical delivery, or AI enablement. aLGN™ adjusts which dimensions lead and which remain supporting evidence based on the opportunity.
 
 ### Appropriate Abstraction
 
-Work can be described at multiple truthful levels—from configuring a workflow, to delivering a platform capability, to improving an operational system. ALGN™ selects the highest defensible level that accurately communicates the candidate’s contribution.
+Work can be described at multiple truthful levels—from configuring a workflow, to delivering a platform capability, to improving an operational system. aLGN™ selects the highest defensible level that accurately communicates the candidate’s contribution.
 
 ### Evidence Over Keywords
 
@@ -101,7 +101,7 @@ Users review generated framing, validate assumptions, confirm whether claims are
 
 A resume is one role-specific representation of a larger evidence base. The underlying record may include accomplishments, scale, outcomes, capabilities, tools, domains, confidence levels, and contextual details.
 
-ALGN™ determines which evidence should appear, what should lead, and how it should be framed for the decision at hand.
+aLGN™ determines which evidence should appear, what should lead, and how it should be framed for the decision at hand.
 
 ---
 
@@ -136,7 +136,7 @@ The work required:
 
 ## Impact
 
-ALGN™ has helped:
+aLGN™ has helped:
 
 - reduce repetitive opportunity review
 - improve consistency across evaluations
@@ -151,13 +151,13 @@ ALGN™ has helped:
 
 ## Current Status
 
-ALGN™ is an actively evolving product. A privacy-safe public demonstration and expanded case study are currently in development.
+aLGN™ is an actively evolving product. A privacy-safe public demonstration and expanded case study are currently in development.
 
 No personal application data, credentials, proprietary information, API keys, or private source code are included in this repository.
 
 ---
 
-**ALGN™ is a product of Pluralign.**
+**aLGN™ is a product of Pluralign.**
 
 ---
 
