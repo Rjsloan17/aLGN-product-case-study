@@ -21,7 +21,7 @@ Evaluating opportunities manually requires repeatedly reviewing:
 - required experience
 - application priority
 
-This process can be time-consuming and inconsistent, especially when job information is scattered across job boards, email, and employer sites.
+This process becomes time-consuming and inconsistent when job information is scattered across sources.
 
 ---
 
