@@ -21,7 +21,7 @@ Evaluating opportunities manually requires repeatedly reviewing:
 - required experience
 - application priority
 
-This process can be time-consuming and inconsistent, especially when information is fragmented across job boards, emails, and company career sites.
+This process can be time-consuming and inconsistent, especially when job information is scattered across job boards, email, and employer sites.
 
 ---
 
@@ -29,7 +29,7 @@ This process can be time-consuming and inconsistent, especially when information
 
 aLGN™ was designed to answer:
 
-> **Which opportunities deserve attention, why do they deserve it, and how should the candidate’s verified evidence be represented for the opportunity?**
+> **Which opportunities deserve attention, why do they deserve it, and how should the candidate’s verified evidence be presented?**
 
 The system transforms fragmented job information into a structured decision workflow.
 
@@ -43,8 +43,8 @@ The system transforms fragmented job information into a structured decision work
 4. Apply deterministic rules and AI-assisted analysis.
 5. Classify or prioritize the opportunity.
 6. Preserve human review for final decisions.
-7. Generate evidence-preserving, role-specific outputs by adjusting emphasis, ordering, and abstraction without changing the underlying facts.
-
+7. Generate evidence-preserving, role-specific outputs by adjusting emphasis, order, and abstraction without altering the evidence.
+   
 ---
 
 ## Product Principles
