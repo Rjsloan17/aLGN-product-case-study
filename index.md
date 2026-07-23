@@ -1,4 +1,4 @@
-# aLGN™ — AI career decision intelligence by Pluralign
+# aLGN™ — AI Career Decision Intelligence by Pluralign
 
 ## AI-Assisted Opportunity Evaluation and Decision Workflow
 
